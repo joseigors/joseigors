@@ -41,8 +41,7 @@
 
 ### Eu estou estudando... 🧩
 <!-- (Aqui você pode adicionar tecnologias que está estudando, inclusive para aumentar essa lista você listamos algumas das tecnologias ensinadas na nossa [Assinatura On Demand](https://cubos.academy/cubosondemand)) -->
-<img loading="lazy" 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain-wordmark.svg" />
+<img loading="lazy" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain-wordmark.svg" />
           
 
 
