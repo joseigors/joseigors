@@ -4,12 +4,13 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor Fullstack
+💻 Eu sou um desenvolvedor Fullstack @ Analista de dados
+
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo [[Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2)] @ [ [Unit](https://www.unit.br/) | Bacharel em Sistemas de informação]
+🎓 Eu finalizei [[Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2)] @ [ [Unit](https://www.unit.br/) | Bacharel em Sistemas de informação]
 
 🔎 Também sou curioso sobre Física 
 
